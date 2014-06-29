@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/postgresql-9.1-903.jdbc3.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-beans-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-context-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-context-support-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-core-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-jdbc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-tx-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-web-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-webmvc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-expression-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-test-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/aspectj-1.7.2.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-aop-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/spring-aspects-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="webapps/WEB-INF/lib/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
